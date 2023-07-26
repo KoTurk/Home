@@ -6,9 +6,9 @@ As a conference speaker you can find him at almost every conference. He talks ab
 He loves to blog, contributing to the NLJUG magazine and engaging with his audience on Twitter (@KoTurk77).
 
 ### Blogs
-[Your frontend is ☠️ ⚠️ Let's measure its impact with CO2.js](https://www.adesso.nl/en/news/blog/your-frontend-is-let-s-measure-its-impact-with-co2-js.jsp)<br>
-[Green Software Engineering: Best Practices](https://www.adesso.nl/en/news/blog/green-software-engineering-best-practices.jsp)<br>
-[There’s no “I”, we do this together](https://rabobank.jobs/en/techblog/culture-leadership/engineers-week/)
+[1] [Your frontend is ☠️ ⚠️ Let's measure its impact with CO2.js](https://www.adesso.nl/en/news/blog/your-frontend-is-let-s-measure-its-impact-with-co2-js.jsp)<br>
+[2] [Green Software Engineering: Best Practices](https://www.adesso.nl/en/news/blog/green-software-engineering-best-practices.jsp)<br>
+[3] [There’s no “I”, we do this together](https://rabobank.jobs/en/techblog/culture-leadership/engineers-week/)
 
 ### Conference talks
 #### Create an eco friendly world with Green Software Engineering
