@@ -20,3 +20,9 @@ He loves to blog, contributing to the NLJUG magazine and engaging with his audie
 [JNation](https://www.youtube.com/watch?v=4xjsYvFZHlM)<br>
 [TeqNation](https://www.youtube.com/watch?v=iC5gILgk98s)<br>
 [Voxxed Bucharest](https://www.youtube.com/watch?v=hOMlGZtJc0g)
+
+#### Kafka Streams, nightmare or sweet dream? (new title)
+[JNation](https://youtu.be/0NVA_Cp5jeI)<br>
+[Voxxed Bucharest](https://youtu.be/uWkFeUKNXbI)<br>
+[Voxxed Ticino](https://voxxeddays.com/ticino/talk-details/?id=2612)<br>
+[Javaland](https://shop.doag.org/events/javaland/2023/agenda/#eventDay.all%23textSearch.Ko%20turk)
