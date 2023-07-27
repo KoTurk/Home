@@ -13,7 +13,8 @@ He loves to blog, contributing to the NLJUG magazine and engaging with his audie
 ### Conference talks
 #### Create an eco friendly world with Green Software Engineering
 [JNation](https://www.youtube.com/watch?v=47MlhUgJIKA)<br>
-[Voxxed Brussels](https://www.youtube.com/watch?v=zigwUR9fisY)
+[Voxxed Brussels](https://www.youtube.com/watch?v=zigwUR9fisY)<br>
+[JCON](https://jconeurope2023.sched.com/event/1K7g3/create-an-eco-friendly-world-with-green-software-engineering)
 
 #### Best of Both Worlds: Apache Pulsar and Apache Kafka
 [DevNexus](https://www.youtube.com/watch?v=m2GhQ9wlSns)<br>
