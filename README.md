@@ -1,6 +1,6 @@
 Ko Turk is a Developer (Ambassador), who has more than 15+ years of experience in developing Java / Kotlin applications. 
 
-🧑‍💻 Working for Blue4IT, assignment at the Rabobank. DevOps Engineer & Community Lead.
+🧑‍💻 Working @Blue4IT, assignment at the Rabobank. DevOps Engineer & Community Lead.
 
 🗣 Conference speaker, talking about Sustainability and Apache Kafka / Pulsar.
 
