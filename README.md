@@ -8,9 +8,9 @@ He loves to blog, contributing to the NLJUG magazine and engaging with his audie
 ### Blogs
 [1] [Your frontend is ☠️ ⚠️ Let's measure its impact with CO2.js](https://www.adesso.nl/en/news/blog/your-frontend-is-let-s-measure-its-impact-with-co2-js.jsp)<br>
 [2] [Green Software Engineering: Best Practices](https://www.adesso.nl/en/news/blog/green-software-engineering-best-practices.jsp)<br>
-[3] [There’s no “I”, we do this together](https://rabobank.jobs/en/techblog/culture-leadership/engineers-week/)<br>
-[4] [Kafka Streams, Dutch Java Magazine](https://github.com/KoTurk/Kafka/blob/main/NLJUG/magazine/JavaMagazine.pdf)<br>
-[5] [Micrometer, Dutch Java Magazine](https://github.com/KoTurk/Micrometer/blob/master/NLJUG/JavaMagazine.pdf)
+[3] [Kafka Streams, Dutch Java Magazine](https://github.com/KoTurk/Kafka/blob/main/NLJUG/magazine/JavaMagazine.pdf)<br>
+[4] [Micrometer, Dutch Java Magazine](https://github.com/KoTurk/Micrometer/blob/master/NLJUG/JavaMagazine.pdf)<br>
+[5] [Latest trends and developments, Rabobank Engineers Week](https://rabobank.jobs/en/techblog/culture-leadership/engineers-week/)
 
 ### Conference talks
 #### Create an eco friendly world with Green Software Engineering
