@@ -14,18 +14,19 @@ He loves to blog, contributing to the NLJUG magazine and engaging with his audie
 
 ### Conference talks
 #### Create an eco friendly world with Green Software Engineering
-[JNation](https://www.youtube.com/watch?v=47MlhUgJIKA)<br>
-[Voxxed Brussels](https://www.youtube.com/watch?v=zigwUR9fisY)<br>
-[JCON](https://jconeurope2023.sched.com/event/1K7g3/create-an-eco-friendly-world-with-green-software-engineering)
+🇵🇹 [JNation](https://www.youtube.com/watch?v=47MlhUgJIKA)<br>
+🇧🇪 [Voxxed Brussels](https://www.youtube.com/watch?v=zigwUR9fisY)<br>
+🇩🇪 [JCON](https://jconeurope2023.sched.com/event/1K7g3/create-an-eco-friendly-world-with-green-software-engineering)
 
 #### Best of Both Worlds: Apache Pulsar and Apache Kafka
-[DevNexus](https://www.youtube.com/watch?v=m2GhQ9wlSns)<br>
-[JNation](https://www.youtube.com/watch?v=4xjsYvFZHlM)<br>
-[TeqNation](https://www.youtube.com/watch?v=iC5gILgk98s)<br>
-[Voxxed Bucharest](https://www.youtube.com/watch?v=hOMlGZtJc0g)
+🇺🇸 [DevNexus](https://www.youtube.com/watch?v=m2GhQ9wlSns)<br>
+🇵🇹 [JNation](https://www.youtube.com/watch?v=4xjsYvFZHlM)<br>
+🇳🇱 [TeqNation](https://www.youtube.com/watch?v=iC5gILgk98s)<br>
+🇷🇴 [Voxxed Bucharest](https://www.youtube.com/watch?v=hOMlGZtJc0g)
+🇳🇴 [JavaZone](https://2023.javazone.no/program/4f17861c-bb56-4545-a690-fe4420d4ffd1)
 
 #### Kafka Streams, nightmare or sweet dream? (new title)
-[JNation](https://youtu.be/0NVA_Cp5jeI)<br>
-[Voxxed Bucharest](https://youtu.be/uWkFeUKNXbI)<br>
-[Voxxed Ticino](https://voxxeddays.com/ticino/talk-details/?id=2612)<br>
-[Javaland](https://shop.doag.org/events/javaland/2023/agenda/#eventDay.all%23textSearch.Ko%20turk)
+🇵🇹 [JNation](https://youtu.be/0NVA_Cp5jeI)<br>
+🇷🇴 [Voxxed Bucharest](https://youtu.be/uWkFeUKNXbI)<br>
+🇨🇭 [Voxxed Ticino](https://voxxeddays.com/ticino/talk-details/?id=2612)<br>
+🇩🇪 [Javaland](https://shop.doag.org/events/javaland/2023/agenda/#eventDay.all%23textSearch.Ko%20turk)
