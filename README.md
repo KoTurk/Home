@@ -22,7 +22,7 @@ He loves to blog, contributing to the NLJUG magazine and engaging with his audie
 🇺🇸 [DevNexus](https://www.youtube.com/watch?v=m2GhQ9wlSns)<br>
 🇵🇹 [JNation](https://www.youtube.com/watch?v=4xjsYvFZHlM)<br>
 🇳🇱 [TeqNation](https://www.youtube.com/watch?v=iC5gILgk98s)<br>
-🇷🇴 [Voxxed Bucharest](https://www.youtube.com/watch?v=hOMlGZtJc0g)
+🇷🇴 [Voxxed Bucharest](https://www.youtube.com/watch?v=hOMlGZtJc0g)<br>
 🇳🇴 [JavaZone](https://2023.javazone.no/program/4f17861c-bb56-4545-a690-fe4420d4ffd1)
 
 #### Kafka Streams, nightmare or sweet dream? (new title)
