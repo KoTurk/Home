@@ -30,4 +30,5 @@ Ko Turk is a Developer (Ambassador), who has more than 15+ years of experience i
 🇵🇹 [JNation](https://youtu.be/0NVA_Cp5jeI)<br>
 🇷🇴 [Voxxed Bucharest](https://youtu.be/uWkFeUKNXbI)<br>
 🇨🇭 [Voxxed Ticino](https://voxxeddays.com/ticino/talk-details/?id=2612)<br>
-🇩🇪 [Javaland](https://shop.doag.org/events/javaland/2023/agenda/#eventDay.all%23textSearch.Ko%20turk)
+🇩🇪 [Javaland](https://shop.doag.org/events/javaland/2023/agenda/#eventDay.all%23textSearch.Ko%20turk)<br>
+🇪🇸 [JBCNConf](https://www.jbcnconf.com/2022/infoTalk.html?id=61fd71544fc8140baaa031be)
