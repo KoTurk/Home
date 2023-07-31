@@ -2,16 +2,18 @@ Ko Turk is a Developer (Ambassador), who has more than 15+ years of experience i
 
 🧑‍💻 Working @Blue4IT, assignment at the Rabobank. DevOps Engineer & Community Lead.
 
-🗣 Conference speaker, talking about Sustainability and Apache Kafka / Pulsar.
+👥 Part of JFall Programm committee, Community reviewer DevoxxBE
 
-✍🏻 Loves to blog and writing articles for the Dutch Java Magazine.
+🎤 Conference speaker, talking about Sustainability and Apache Kafka / Pulsar.
+
+✍🏻 Loves to blog, and writing articles for the Dutch Java Magazine.
 
 ### Blogs & Articles
-[1 🇬🇧] [Your frontend is ☠️ ⚠️ Let's measure its impact with CO2.js](https://www.adesso.nl/en/news/blog/your-frontend-is-let-s-measure-its-impact-with-co2-js.jsp)<br>
-[2 🇬🇧] [Green Software Engineering: Best Practices](https://www.adesso.nl/en/news/blog/green-software-engineering-best-practices.jsp)<br>
-[3 🇳🇱] [Kafka Streams, Dutch Java Magazine](https://github.com/KoTurk/Kafka/blob/main/NLJUG/magazine/JavaMagazine.pdf)<br>
-[4 🇳🇱] [Micrometer, Dutch Java Magazine](https://github.com/KoTurk/Micrometer/blob/master/NLJUG/JavaMagazine.pdf)<br>
-[5 🇬🇧] [Latest trends and developments, Rabobank Engineers Week](https://rabobank.jobs/en/techblog/culture-leadership/engineers-week/)
+[🇬🇧] [Your frontend is ☠️ ⚠️ Let's measure its impact with CO2.js](https://www.adesso.nl/en/news/blog/your-frontend-is-let-s-measure-its-impact-with-co2-js.jsp)<br>
+[🇬🇧] [Green Software Engineering: Best Practices](https://www.adesso.nl/en/news/blog/green-software-engineering-best-practices.jsp)<br>
+[🇳🇱] [Kafka Streams, Dutch Java Magazine](https://github.com/KoTurk/Kafka/blob/main/NLJUG/magazine/JavaMagazine.pdf)<br>
+[🇳🇱] [Micrometer, Dutch Java Magazine](https://github.com/KoTurk/Micrometer/blob/master/NLJUG/JavaMagazine.pdf)<br>
+[🇬🇧] [Latest trends and developments, Rabobank Engineers Week](https://rabobank.jobs/en/techblog/culture-leadership/engineers-week/)
 
 ### Conference talks
 #### The Future is 💚: A Journey through the Energy Efficient Design Principles of Software Engineering 
