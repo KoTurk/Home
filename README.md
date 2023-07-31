@@ -27,6 +27,7 @@ Ko Turk is a Developer (Ambassador), who has more than 15+ years of experience i
 🇵🇹 [JNation](https://www.youtube.com/watch?v=4xjsYvFZHlM)<br>
 🇳🇱 [TeqNation](https://www.youtube.com/watch?v=iC5gILgk98s)<br>
 🇷🇴 [Voxxed Bucharest](https://www.youtube.com/watch?v=hOMlGZtJc0g)<br>
+🇵🇱 [Devoxx Poland](https://devoxx.pl/talk-details/?id=2213)<br>
 🇳🇴 [JavaZone](https://2023.javazone.no/program/4f17861c-bb56-4545-a690-fe4420d4ffd1)
 
 #### Kafka Streams, nightmare or sweet dream?
