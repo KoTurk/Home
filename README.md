@@ -17,6 +17,7 @@ Ko Turk is a Developer (Ambassador), who has more than 15+ years of experience i
 
 ### Conference talks
 #### The Future is 💚: A Journey through the Energy Efficient Design Principles of Software Engineering 
+🇳🇱 JFall<br>
 🇵🇹 [JNation](https://www.youtube.com/watch?v=47MlhUgJIKA)<br>
 🇧🇪 [Voxxed Brussels](https://www.youtube.com/watch?v=zigwUR9fisY)<br>
 🇩🇪 [JCON](https://jconeurope2023.sched.com/event/1K7g3/create-an-eco-friendly-world-with-green-software-engineering)
