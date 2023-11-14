@@ -15,6 +15,9 @@ Ko Turk is a Developer (Ambassador), who has more than 15+ years of experience i
 [🇳🇱] [Micrometer, Dutch Java Magazine](https://github.com/KoTurk/Micrometer/blob/master/NLJUG/JavaMagazine.pdf)<br>
 [🇬🇧] [Latest trends and developments, Rabobank Engineers Week](https://rabobank.jobs/en/techblog/culture-leadership/engineers-week/)
 
+### Podcasts
+[Foojay](https://www.youtube.com/live/hodqxfIjvhY?si=uUpWlVhTJO5ehffT)<br>
+
 ### Conference talks
 #### The Future is 💚: A Journey through the Energy Efficient Design Principles of Software Engineering 
 🇳🇱 JFall<br>
