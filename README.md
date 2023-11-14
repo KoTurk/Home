@@ -17,6 +17,7 @@ Ko Turk is a Developer (Ambassador), who has more than 15+ years of experience i
 
 ### Podcasts
 [Foojay](https://www.youtube.com/live/hodqxfIjvhY?si=uUpWlVhTJO5ehffT)<br>
+[SDN Cast](https://youtu.be/l0cYi7TJ2-8?si=OrvYRWTjHYBq-1Md)<br>
 
 ### Conference talks
 #### The Future is 💚: A Journey through the Energy Efficient Design Principles of Software Engineering 
