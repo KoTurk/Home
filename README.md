@@ -1,12 +1,17 @@
-Ko Turk is a Developer (Ambassador), who has more than 15+ years of experience in developing Java / Kotlin applications. 
+<table bgcolor="#ff00ff">
+  <tr>
+    <td><img src="https://github.com/KoTurk/KoTurk/assets/43384384/4c019e58-1e4e-42a7-848d-59887e344413"</td>
+    <td><br>Ko Turk is a Developer (Ambassador) who has more than 15+ years of experience in developing Java / Kotlin applications.<br><br>
+      🧑‍💻 Working @Blue4IT, assignment at the Rabobank. DevOps Engineer & Community Lead<br><br>
+      👥 Part of JFall Programm committee, Community reviewer DevoxxBE<br><br>
+      🎤 Conference speaker, talking about Sustainability and Apache Kafka / Pulsar<br><br>
+      ✍🏻 Loves to blog and writing articles for the Dutch Java Magazine.<br><br>
+    </td>
+  </tr>
+</table>
 
-🧑‍💻 Working @Blue4IT, assignment at the Rabobank. DevOps Engineer & Community Lead.
+https://sessionize.com/Assets/speaker-certificate/Most_Active_Speaker2023.svg
 
-👥 Part of JFall Programm committee, Community reviewer DevoxxBE
-
-🎤 Conference speaker, talking about Sustainability and Apache Kafka / Pulsar.
-
-✍🏻 Loves to blog, and writing articles for the Dutch Java Magazine.
 
 ### Blogs & Articles
 [🇬🇧] [Your frontend is ☠️ ⚠️ Let's measure its impact with CO2.js](https://www.adesso.nl/en/news/blog/your-frontend-is-let-s-measure-its-impact-with-co2-js.jsp)<br>
