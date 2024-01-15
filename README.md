@@ -10,9 +10,6 @@
   </tr>
 </table>
 
-https://sessionize.com/Assets/speaker-certificate/Most_Active_Speaker2023.svg
-
-
 ### Blogs & Articles
 [🇬🇧] [Your frontend is ☠️ ⚠️ Let's measure its impact with CO2.js](https://www.adesso.nl/en/news/blog/your-frontend-is-let-s-measure-its-impact-with-co2-js.jsp)<br>
 [🇬🇧] [Green Software Engineering: Best Practices](https://www.adesso.nl/en/news/blog/green-software-engineering-best-practices.jsp)<br>
