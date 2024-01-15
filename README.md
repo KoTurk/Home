@@ -1,11 +1,11 @@
-<table border="1">
-  <tr style="border-bottom: 1px solid black;">
-    <td><img src="https://github.com/KoTurk/KoTurk/assets/43384384/4c019e58-1e4e-42a7-848d-59887e344413"</td>
+<table >
+  <tr>
+    <td style="border: 0"><img src="https://github.com/KoTurk/KoTurk/assets/43384384/4c019e58-1e4e-42a7-848d-59887e344413"</td>
     <td><br>Ko Turk is a Developer (Ambassador) who has more than 15+ years of experience in developing Java / Kotlin applications.<br><br>
       🧑‍💻 Working @Blue4IT, assignment at the Rabobank. DevOps Engineer & Community Lead<br><br>
       👥 Part of JFall Programm committee, Community reviewer DevoxxBE<br><br>
       🎤 Conference speaker, talking about Sustainability and Apache Kafka / Pulsar<br><br>
-      ✍🏻 Loves to blog and writing articles for the Dutch Java Magazine.<br><br>
+      ✍🏻 Loves to blog and write articles for the Dutch Java Magazine.<br><br>
     </td>
   </tr>
 </table>
