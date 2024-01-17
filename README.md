@@ -28,6 +28,10 @@
 [SDN Cast](https://youtu.be/l0cYi7TJ2-8?si=OrvYRWTjHYBq-1Md)<br>
 
 ### Conference talks
+
+#### Your front end is killing! Let's measure it's impact with CO2.js
+🇩🇪 [Javaland](https://my.doag.org/events/javaland/2024/agenda/#eventDay.1712700000)
+
 #### The Future is 💚: A Journey through the Energy Efficient Design Principles of Software Engineering (2023/2024)
 🇳🇱 [JFall](https://www.linkedin.com/posts/ko-turk-b271b929_java-jvm-maven-activity-7128687768913764352-BZLQ) (Video will be added when it's available)<br>
 🇵🇹 [JNation](https://www.youtube.com/watch?v=47MlhUgJIKA)<br>
@@ -51,6 +55,7 @@ JVM energy consumption reports can be found here: [link](https://github.com/ionu
 🇨🇭 [Voxxed Ticino](https://voxxeddays.com/ticino/talk-details/?id=2612)<br>
 🇩🇪 [Javaland](https://shop.doag.org/events/javaland/2023/agenda/#eventDay.all%23textSearch.Ko%20turk)<br>
 🇪🇸 [JBCNConf](https://www.jbcnconf.com/2022/infoTalk.html?id=61fd71544fc8140baaa031be)<br>
+🇹🇷 [Java Day Istanbul](https://www.javaday.istanbul/speaker-ko-turk)
 🇩🇪 [JCON](https://www.youtube.com/watch?v=CaDnqhBSiD4)<br>
 
 #### How we build and migrated our Spring Boot applications to Kotlin (2022)
