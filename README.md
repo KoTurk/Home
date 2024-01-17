@@ -17,7 +17,7 @@
 
 
 ### Blogs & Articles
-[🇬🇧] [Meow moments, minimize the wait for your build to be completed!](https://www.adesso.nl/en/news/blog/meow-moments-minimize-the-wait-for-your-build-to-be-completed.jsp#509284_2)<br>
+[🇬🇧] [Meow moments, minimize the wait for your build to be completed!](https://www.adesso.nl/en/news/blog/meow-moments-minimize-the-wait-for-your-build-to-be-completed.jsp)<br>
 [🇬🇧] [Your frontend is ☠️ ⚠️ Let's measure its impact with CO2.js](https://www.adesso.nl/en/news/blog/your-frontend-is-let-s-measure-its-impact-with-co2-js.jsp)<br>
 [🇬🇧] [Green Software Engineering: Best Practices](https://www.adesso.nl/en/news/blog/green-software-engineering-best-practices.jsp)<br>
 [🇳🇱] [Kafka Streams, Dutch Java Magazine](https://github.com/KoTurk/Kafka/blob/main/NLJUG/magazine/JavaMagazine.pdf)<br>
