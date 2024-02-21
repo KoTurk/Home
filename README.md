@@ -33,7 +33,7 @@
 #### Your frontend is ☠️ ⚠️ Let's measure its impact with CO2.js (2024) --> [link](abstract_co2js.md)
 🇩🇪 [Javaland](https://my.doag.org/events/javaland/2024/agenda/#eventDay.1712700000)
 
-#### The Future is 💚: A Journey through the Energy Efficient Design Principles of Software Engineering (2023/2024)
+#### The Future is 💚: A Journey through the Energy Efficient Design Principles of Software Engineering (2023/2024) --> [link](abstract_JVMEnergy.md)
 🇳🇱 [JFall](https://www.linkedin.com/posts/ko-turk-b271b929_java-jvm-maven-activity-7128687768913764352-BZLQ) (Video will be added when it's available)<br>
 🇵🇹 [JNation](https://www.youtube.com/watch?v=47MlhUgJIKA)<br>
 🇧🇪 [Voxxed Brussels](https://www.youtube.com/watch?v=zigwUR9fisY)<br>
