@@ -30,7 +30,7 @@
 
 ### Conference talks
 
-#### Your front end is killing! Let's measure it's impact with CO2.js (2024)
+#### Your frontend is ☠️ ⚠️ Let's measure its impact with CO2.js (2024) --> [link](abstract_co2js.md)
 🇩🇪 [Javaland](https://my.doag.org/events/javaland/2024/agenda/#eventDay.1712700000)
 
 #### The Future is 💚: A Journey through the Energy Efficient Design Principles of Software Engineering (2023/2024)
