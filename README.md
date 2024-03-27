@@ -35,6 +35,7 @@
 🇳🇱 [TeqNation](https://conference.teqnation.com/timetable)
 
 #### The Future is 💚: A Journey through the Energy Efficient Design Principles of Software Engineering (2023/2024) --> [link](abstract_JVMEnergy.md)
+🇷🇴 [Voxxed Bucharest](https://romania.voxxeddays.com/talk/?id=2809)<br>
 🇳🇱 [JFall](https://www.linkedin.com/posts/ko-turk-b271b929_java-jvm-maven-activity-7128687768913764352-BZLQ) (Video will be added when it's available)<br>
 🇵🇹 [JNation](https://www.youtube.com/watch?v=47MlhUgJIKA)<br>
 🇧🇪 [Voxxed Brussels](https://www.youtube.com/watch?v=zigwUR9fisY)<br>
