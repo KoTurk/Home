@@ -39,7 +39,8 @@
 🇳🇱 [TeqNation](https://conference.teqnation.com/timetable)
 
 #### The Future is 💚: A Journey through the Energy Efficient Design Principles of Software Engineering (2023/2024) --> [link](abstract_JVMEnergy.md)
-🇳🇱 [UtrechtJUG](https://www.meetup.com/utrecht-java-user-group/events/265644593/)<br>
+🇳🇱 [UtrechtJUG](https://my.doag.org/events/javaland/2024/agenda/#eventDay.1712613600)<br>
+🇩🇪 [Javaland](https://my.doag.org/events/javaland/2024/agenda/#eventDay.1712700000)<br>
 🇳🇱 [AmsterdamJUG](https://www.meetup.com/amsterdam-java-user-group/events/299589593/)<br>
 🇷🇴 [Voxxed Bucharest](https://romania.voxxeddays.com/talk/?id=2809)<br>
 🇳🇱 [JFall](https://www.linkedin.com/posts/ko-turk-b271b929_java-jvm-maven-activity-7128687768913764352-BZLQ)<br>
