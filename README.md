@@ -1,5 +1,5 @@
 <b>Ko Turk</b> is a Developer (Ambassador) with more than 16+ years of experience in developing Java / Kotlin applications.<br><br>
-      🧑‍💻 Working [@Blue4IT](https://www.blue4it.nl/), assignment at the Rabobank. DevOps Engineer & Community Lead<br><br>
+      🧑‍💻 Working at [Blue4IT](https://www.blue4it.nl/) (part of [adessoNL](https://www.adesso.nl/en/index-5.jsp)), assignment at the Rabobank. DevOps Engineer & Community Lead<br><br>
       👥 Part of the JFall Programm committee, Community reviewer DevoxxBE<br><br>
       🎤 Conference speaker, sharing about what he learned (every year new topic)<br><br>
       ✍🏻 Loves to blog and write articles for the Dutch Java Magazine.<br><br>
