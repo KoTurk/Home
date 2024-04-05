@@ -9,9 +9,13 @@
 <table>
   <tr>
     <td style="border: 0">
-          <a href="https://sessionize.com/ko-turk/#speaker"><img src="https://github.com/KoTurk/KoTurk/assets/43384384/4c019e58-1e4e-42a7-848d-59887e344413"></a></td>
-    <td><h1 align="center">top 3% of most active speakers for 2023</h1>
-    </td>
+          <a href="https://sessionize.com/ko-turk/#speaker"><img src="https://github.com/KoTurk/KoTurk/assets/43384384/4c019e58-1e4e-42a7-848d-59887e344413" width="100"></a></td>
+    <td><h1>top 3% of most active speakers for 2023</h1></td>
+  </tr>
+  <tr>
+    <td style="border: 0">
+          <a href="https://sessionize.com/ko-turk/#speaker"><img src="https://github.com/KoTurk/KoTurk/blob/main/community_member.jpeg" width="100"></a></td>
+    <td><h1>Rabobank Community Member of the Month April 2024</h1></td>
   </tr>
 </table>
 
