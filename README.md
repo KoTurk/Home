@@ -39,8 +39,10 @@
 🇳🇱 [TeqNation](https://conference.teqnation.com/timetable)
 
 #### The Future is 💚: A Journey through the Energy Efficient Design Principles of Software Engineering (2023/2024) --> [link](abstract_JVMEnergy.md)
+🇳🇱 [UtrechtJUG](https://www.meetup.com/utrecht-java-user-group/events/265644593/)<br>
+🇳🇱 [AmsterdamJUG](https://www.meetup.com/amsterdam-java-user-group/events/299589593/)<br>
 🇷🇴 [Voxxed Bucharest](https://romania.voxxeddays.com/talk/?id=2809)<br>
-🇳🇱 [JFall](https://www.linkedin.com/posts/ko-turk-b271b929_java-jvm-maven-activity-7128687768913764352-BZLQ) (Video will be added when it's available)<br>
+🇳🇱 [JFall](https://www.linkedin.com/posts/ko-turk-b271b929_java-jvm-maven-activity-7128687768913764352-BZLQ)<br>
 🇵🇹 [JNation](https://www.youtube.com/watch?v=47MlhUgJIKA)<br>
 🇧🇪 [Voxxed Brussels](https://www.youtube.com/watch?v=zigwUR9fisY)<br>
 🇩🇪 [JCON](https://jconeurope2023.sched.com/event/1K7g3/create-an-eco-friendly-world-with-green-software-engineering)<br>
