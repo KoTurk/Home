@@ -34,6 +34,9 @@
 
 ### Conference talks
 
+#### Maven's Hidden Secrets and Treasures to speed up your build (2024) --> [link](abstract_mvn.md)
+🇵🇱 [Devoxx Poland](https://devoxx.pl/schedule/)<br>
+
 #### Your frontend is ☠️ ⚠️ Let's measure its impact with CO2.js (2024) --> [link](abstract_co2js.md)
 🇩🇪 [Javaland](https://my.doag.org/events/javaland/2024/agenda/#eventDay.1712700000)<br>
 🇳🇱 [TeqNation](https://conference.teqnation.com/timetable)
