@@ -38,18 +38,18 @@
 🇵🇱 [Devoxx Poland](https://devoxx.pl/schedule/)<br>
 
 #### Your frontend is ☠️ ⚠️ Let's measure its impact with CO2.js (2024) --> [link](abstract_co2js.md)
-🇩🇪 [Javaland](https://my.doag.org/events/javaland/2024/agenda/#eventDay.1712700000)<br>
+🇩🇪 [Javaland](https://my.doag.org/events/javaland/2024/agenda/#eventDay.1712700000)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;([slides](https://docs.google.com/presentation/d/1qF0Sz_aPbK7DmC4VpCFKfZaU3KgwENkJYXbDSS63usA/edit?usp=sharing))<br>
 🇳🇱 [TeqNation](https://conference.teqnation.com/timetable)
 
 #### The Future is 💚: A Journey through the Energy Efficient Design Principles of Software Engineering (2023/2024) --> [link](abstract_JVMEnergy.md)
-🇳🇱 [UtrechtJUG](https://my.doag.org/events/javaland/2024/agenda/#eventDay.1712613600)<br>
-🇩🇪 [Javaland](https://my.doag.org/events/javaland/2024/agenda/#eventDay.1712700000)<br>
-🇳🇱 [AmsterdamJUG](https://www.meetup.com/amsterdam-java-user-group/events/299589593/)<br>
-🇷🇴 [Voxxed Bucharest](https://romania.voxxeddays.com/talk/?id=2809)<br>
-🇳🇱 [JFall](https://www.linkedin.com/posts/ko-turk-b271b929_java-jvm-maven-activity-7128687768913764352-BZLQ)<br>
-🇵🇹 [JNation](https://www.youtube.com/watch?v=47MlhUgJIKA)<br>
-🇧🇪 [Voxxed Brussels](https://www.youtube.com/watch?v=zigwUR9fisY)<br>
-🇩🇪 [JCON](https://jconeurope2023.sched.com/event/1K7g3/create-an-eco-friendly-world-with-green-software-engineering)<br>
+🇳🇱 [UtrechtJUG](https://my.doag.org/events/javaland/2024/agenda/#eventDay.1712613600)&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;([slides](https://docs.google.com/presentation/d/1qmcVnz_v3IgYFr3KsiXZql_f0v4Zurvunxeze9aPiEI/edit?usp=sharing))<br>
+🇩🇪 [Javaland](https://my.doag.org/events/javaland/2024/agenda/#eventDay.1712700000)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;([slides](https://docs.google.com/presentation/d/1FhMQdTfoVYyq-JNkW_G0X9ZAuVGyUKtH2FOKr7KFplk/edit?usp=sharing))<br>
+🇳🇱 [AmsterdamJUG](https://www.meetup.com/amsterdam-java-user-group/events/299589593/)&emsp;&emsp;&emsp;([slides](https://docs.google.com/presentation/d/1q3Arqh9hE6dGP4QLiOrqHx2H8fOo4sCrlIUTfQFgt0c/edit?usp=sharing))<br>
+🇷🇴 [Voxxed Bucharest](https://romania.voxxeddays.com/talk/?id=2809)&emsp;&emsp;([video](https://youtu.be/y7ZJ-XpdjNg?si=24tQKiCmRQ0aq293) / [slides](https://docs.google.com/presentation/d/1mrNYrZxQcC36Lou5rlwYKIx-Rm6cidyW4NEEBLpcJgM/edit?usp=sharing))<br>
+🇳🇱 [JFall](https://www.linkedin.com/posts/ko-turk-b271b929_java-jvm-maven-activity-7128687768913764352-BZLQ)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;([video](https://youtu.be/97xelmmdwGQ?si=-IgCq02oCmlzrNtq) / [slides](https://docs.google.com/presentation/d/1NXnwjayEtsLhsQ7azO-BbF0ahdPeZsquFHoLJnByq_U/edit?usp=sharing))<br>
+🇵🇹 [JNation](https://2023.jnation.pt/schedule/)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;([video](https://www.youtube.com/watch?v=47MlhUgJIKA) / [slides](https://docs.google.com/presentation/d/1TKiBgtkQDN__IvTcTrzi5KSHGuJhYAkK8u980gucSKA/edit?usp=sharing))<br>
+🇧🇪 [Voxxed Brussels](https://twitter.com/VoxxedBrussels/status/1660997178725216257)&emsp;&emsp;&emsp;([video](https://www.youtube.com/watch?v=zigwUR9fisY) / [slides](https://docs.google.com/presentation/d/1-gheOlzjlobHXlEFN-pQWJ291mgIFpVIWV9psh6yE9I/edit?usp=sharing))<br>
+🇩🇪 [JCON](https://jconeurope2023.sched.com/event/1K7g3/create-an-eco-friendly-world-with-green-software-engineering)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;([video](https://youtu.be/LlgUjnSU1RQ?si=fjD-jkhHGsl62d2y) / [slides](https://docs.google.com/presentation/d/1A0gfS9FE2sAmFtywx4hn7FcGwMROyQXUl2CDhv1wuK8/edit?usp=sharing))<br><br>
 
 JVM energy consumption reports can be found here: [link](https://github.com/ionutbalosin/jvm-energy-consumption) 
 
@@ -69,7 +69,7 @@ JVM energy consumption reports can be found here: [link](https://github.com/ionu
 🇩🇪 [Javaland](https://shop.doag.org/events/javaland/2023/agenda/#eventDay.all%23textSearch.Ko%20turk)<br>
 🇪🇸 [JBCNConf](https://www.jbcnconf.com/2022/infoTalk.html?id=61fd71544fc8140baaa031be)<br>
 🇹🇷 [Java Day Istanbul](https://www.javaday.istanbul/speaker-ko-turk)<br>
-🇩🇪 [JCON](https://www.youtube.com/watch?v=CaDnqhBSiD4)<br>
+🇩🇪 [JCON](https://www.youtube.com/watch?v=CaDnqhBSiD4)
 
 #### How we build and migrated our Spring Boot applications to Kotlin (2022)
 🇷🇴 [Voxxed Cluj](https://www.youtube.com/watch?v=wdj-AzLXpz8&ab_channel=Devoxx)<br>
