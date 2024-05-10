@@ -54,12 +54,12 @@
 JVM energy consumption reports can be found here: [link](https://github.com/ionutbalosin/jvm-energy-consumption) 
 
 #### The Art of Streaming, releasing your creativity with Apache Pulsar and Apache Kafka  (2023)
-🇺🇸 [DevNexus](https://www.youtube.com/watch?v=m2GhQ9wlSns)<br>
-🇵🇹 [JNation](https://www.youtube.com/watch?v=4xjsYvFZHlM)<br>
-🇳🇱 [TeqNation](https://www.youtube.com/watch?v=iC5gILgk98s)<br>
-🇷🇴 [Voxxed Bucharest](https://www.youtube.com/watch?v=hOMlGZtJc0g)<br>
-🇵🇱 [Devoxx Poland](https://devoxx.pl/talk-details/?id=2213)<br>
-🇳🇴 [JavaZone](https://2023.javazone.no/program/4f17861c-bb56-4545-a690-fe4420d4ffd1)<br>
+🇺🇸 [DevNexus](https://www.youtube.com/watch?v=m2GhQ9wlSns)&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;([slides](https://docs.google.com/presentation/d/1dQ4yN-MveaEM4kOGP6VWHWqiAyuZC9Y92OsotOqnrfo/edit?usp=sharing) / [video](https://youtu.be/m2GhQ9wlSns?si=c1DhUvyI7-HAsXXy))<br>
+🇵🇹 [JNation](https://www.youtube.com/watch?v=4xjsYvFZHlM)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;([slides](https://docs.google.com/presentation/d/1_rVN9sQgES3jfiv3MiiKR01DeVLSZjPBg_pWgHM0jW0/edit?usp=sharing) / [video](https://youtu.be/4xjsYvFZHlM?si=P46A5wGd-tFJQEuB))<br>
+🇳🇱 [TeqNation](https://www.youtube.com/watch?v=iC5gILgk98s);&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;([slides](https://docs.google.com/presentation/d/1KDZem-WGwphKjKJ99YceEN-QDEeeE7uvD2hTcfsOyzE/edit?usp=sharing) / [video](https://youtu.be/iC5gILgk98s?si=MsO0ac_I6DKLfoKI))<br>
+🇷🇴 [Voxxed Bucharest](https://www.youtube.com/watch?v=hOMlGZtJc0g);&emsp;&emsp;([slides](https://docs.google.com/presentation/d/1sRo7EG816JtjvKxF2NymS8pLunH2Ke4284BX_WDgUIE/edit?usp=sharing))<br>
+🇵🇱 [Devoxx Poland](https://devoxx.pl/talk-details/?id=2213);&emsp;&emsp;&emsp;&nbsp;&nbsp;([slides](https://docs.google.com/presentation/d/1MCA-Q88lMup9KGIa0B7uNWbdpQpm8c1Oc-LLEpNjPwM/edit?usp=sharing))<br>
+🇳🇴 [JavaZone](https://2023.javazone.no/program/4f17861c-bb56-4545-a690-fe4420d4ffd1);&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;([slides](https://docs.google.com/presentation/d/1-WJv08KNlxNO8MgX2m0V-pJpr30ynSAiaQVwrKinlao/edit?usp=sharing) / [video](https://2023.javazone.no/program/4f17861c-bb56-4545-a690-fe4420d4ffd1))<br>
 
 #### Kafka Streams, nightmare or sweet dream? (2021/2022)
 ⭐️ [JetBrains](https://www.youtube.com/watch?v=HlNUUtU_AsM)<br>
