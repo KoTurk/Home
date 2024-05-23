@@ -39,7 +39,7 @@
 
 #### Your frontend is ☠️ ⚠️ Let's measure its impact with CO2.js (2024) --> [link](abstract_co2js.md)
 🇩🇪 [Javaland](https://my.doag.org/events/javaland/2024/agenda/#eventDay.1712700000)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;([slides](https://docs.google.com/presentation/d/1qF0Sz_aPbK7DmC4VpCFKfZaU3KgwENkJYXbDSS63usA/edit?usp=sharing))<br>
-🇳🇱 [TeqNation](https://conference.teqnation.com/timetable)&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;([slides](https://docs.google.com/presentation/d/1u51D0s5iN6YE8G9VwbPk05rkzcy1xJtCbXApWa6bFPw/edit?usp=sharing))<br>
+🇳🇱 [TeqNation](https://conference.teqnation.com/timetable)&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;([slides](https://docs.google.com/presentation/d/1u51D0s5iN6YE8G9VwbPk05rkzcy1xJtCbXApWa6bFPw/edit?usp=sharing) / [code](https://github.com/KoTurk/KoTurk/tree/main/GreenCoding))<br>
 
 #### The Future is 💚: A Journey through the Energy Efficient Design Principles of Software Engineering (2023/2024) --> [link](abstract_JVMEnergy.md)
 🇳🇱 [UtrechtJUG](https://my.doag.org/events/javaland/2024/agenda/#eventDay.1712613600)&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;([slides](https://docs.google.com/presentation/d/1qmcVnz_v3IgYFr3KsiXZql_f0v4Zurvunxeze9aPiEI/edit?usp=sharing))<br>
