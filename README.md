@@ -1,6 +1,6 @@
 <b>Ko Turk</b> is a Developer (Ambassador) with more than 16+ years of experience in developing Java / Kotlin applications.<br><br>
       🧑‍💻 Working at [Blue4IT](https://www.blue4it.nl/) (part of [adessoNL](https://www.adesso.nl/en/index-5.jsp)), assignment at the Rabobank. DevOps Engineer & Community Lead<br>
-      🙌🏼 CodeLabJUG, (proud) JUGLeader<br>
+      🙌🏼 JUGLeader at [CodeLabJUG](https://codelabjug.nl/) <br>
       👥 Part of the JFall Programm committee, Community reviewer DevoxxBE<br>
       🎤 Conference speaker, sharing about what he learned (every year new topic)<br>
       ✍🏻 Loves to blog and write articles for the Dutch Java Magazine.<br>
@@ -8,7 +8,7 @@
 
 ### Conference talks
 
-#### Maven's Hidden Secrets and Treasures to speed up your build (2024) --> [link](abstract_mvn.md)
+#### (new) Maven's Hidden Secrets and Treasures to speed up your build (2024) --> [link](abstract_mvn.md)
 🇵🇱 [Devoxx Poland](https://devoxx.pl/schedule/)&emsp;&emsp;&emsp;([video](https://www.youtube.com/watch?v=qPotZV5i1zw&t=43s) / [slides](https://github.com/KoTurk/DevoxxPoland/blob/master/presentation/DevoxxPoland_slides.pdf))<br>
 
 #### Your frontend is ☠️ ⚠️ Let's measure its impact with CO2.js (2024) --> [link](abstract_co2js.md)
@@ -79,7 +79,7 @@ JVM energy consumption reports can be found here: [link](https://github.com/ionu
 </table>
 
 ### Blogs & Articles
-[🇬🇧] [Meow moments, minimize the wait for your build to be completed!](https://www.adesso.nl/en/news/blog/meow-moments-minimize-the-wait-for-your-build-to-be-completed.jsp) ⭐️ (new)<br>
+[🇬🇧] [Meow moments, minimize the wait for your build to be completed!](https://www.adesso.nl/en/news/blog/meow-moments-minimize-the-wait-for-your-build-to-be-completed.jsp)<br>
 [🇬🇧] [Your frontend is ☠️ ⚠️ Let's measure its impact with CO2.js](https://www.adesso.nl/en/news/blog/your-frontend-is-let-s-measure-its-impact-with-co2-js.jsp)<br>
 [🇬🇧] [Green Software Engineering: Best Practices](https://www.adesso.nl/en/news/blog/green-software-engineering-best-practices.jsp)<br>
 [🇳🇱] [Kafka Streams, Dutch Java Magazine](https://github.com/KoTurk/Kafka/blob/main/NLJUG/magazine/JavaMagazine.pdf)<br>
