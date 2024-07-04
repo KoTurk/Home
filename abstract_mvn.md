@@ -1,9 +1,19 @@
 <h1>Maven's Hidden Secrets and Treasures to speed up your build</h1>
 
-Pssst! Come closer, and let me share a secret with you. Have you heard about Maven Caching? It’s a feature that allows you to reduce your build time dramatically.
-How? Don’t tell it further, but you can improve your local build by adding an extension in your project file (pom) or your .mvn hidden config file.
-Does it sound simple? Locally, yes, remotely, no. In your pipeline, we need to do some more. Let’s secretly add a remote (cache) server to your settings file and say goodbye to your extra coffee breaks.
+Ahoy, Maven Pirates! Gather around, for I have a treasure of knowledge to share with ye salty dogs. ☠️
 
-By applying some simple tweaks, we give your build a boost! Also, we will give you some tips on understanding the Maven lifecycles and improving your test and build by running them in parallel.
+Ye be hearin' about this thing called 'Build Caching'? 
+It’s a secret weapon that can make yer ship (build) sail faster than a seagull catchin' the wind! 💨
 
-But here's the catch: this secret information is only reserved for those joining this session. Shh... don't tell anyone else about this. It's our little secret to building success.
+How does it work, ye ask? Well, add an extension to the project file in the "pom" ye mateys call it.
+But don't think it's all smooth sailin' from there. Nay, ye need to do a bit of work on the pipeline too. 
+Arr, we be talkin' about addin' a remote (cache) server to the settings file, 
+and then ye be sayin' goodbye to them extra (rum with) coffee breaks. 🤫☕️ 
+
+By makin' a few simple tweaks, we give yer build a mighty fine boost! And ye be learnin' all about them Maven lifecycles too! 
+We will show how to improve yer tests and run them in parallel, like enterin’ a ship. 🚢⚡️ 
+
+But hear me out, me hearties, for this be no ordinary treasure of knowledge. 
+Nay, this is reserved for a select few, the likes of ye who be joinin' this session. 🤝 
+
+So, keep yer lips sealed, and don't be tellin' a soul about this secret, aye? 
