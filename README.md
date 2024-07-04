@@ -11,6 +11,7 @@
 🇵🇱 [Devoxx Poland](https://devoxx.pl/schedule/)&emsp;&emsp;&emsp;([video](https://www.youtube.com/watch?v=qPotZV5i1zw&t=43s) / [slides](https://github.com/KoTurk/DevoxxPoland/blob/master/presentation/DevoxxPoland_slides.pdf))<br>
 
 #### Your frontend is ☠️ ⚠️ Let's measure its impact with CO2.js (2024) --> [link](abstract_co2js.md)
+🇳🇱 [FortWierickerschans](https://www.fortwierickerschans.nl/)&nbsp;&nbsp;([slides](https://github.com/KoTurk/YourFrontendIsKilling/blob/master/wierickerschans/slides/slides.pdf) / [code](https://github.com/KoTurk/YourFrontendIsKilling/tree/master/wierickerschans))<br>
 🇩🇪 [Javaland](https://my.doag.org/events/javaland/2024/agenda/#eventDay.1712700000)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;([slides](https://docs.google.com/presentation/d/1qF0Sz_aPbK7DmC4VpCFKfZaU3KgwENkJYXbDSS63usA/edit?usp=sharing))<br>
 🇳🇱 [TeqNation](https://conference.teqnation.com/timetable)&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;([slides](https://docs.google.com/presentation/d/1u51D0s5iN6YE8G9VwbPk05rkzcy1xJtCbXApWa6bFPw/edit?usp=sharing) / [code](https://github.com/KoTurk/KoTurk/tree/main/GreenCoding))<br>
 
