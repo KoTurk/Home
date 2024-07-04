@@ -5,37 +5,10 @@
       ✍🏻 Loves to blog and write articles for the Dutch Java Magazine.<br><br>
       🤔 Believes in innovation, not in limitations<br><br>
 
-### Badges
-<table>
-  <tr>
-    <td style="border: 0">
-          <a href="https://sessionize.com/ko-turk/#speaker"><img src="https://github.com/KoTurk/KoTurk/assets/43384384/4c019e58-1e4e-42a7-848d-59887e344413" width="100"></a></td>
-    <td><h1>top 3% of most active speakers for 2023</h1></td>
-  </tr>
-  <tr>
-    <td style="border: 0">
-          <a href="https://sessionize.com/ko-turk/#speaker"><img src="https://github.com/KoTurk/KoTurk/blob/main/community_member.jpeg" width="100"></a></td>
-    <td><h1>Rabobank Community Member of the Month April 2024</h1></td>
-  </tr>
-</table>
-
-
-### Blogs & Articles
-[🇬🇧] [Meow moments, minimize the wait for your build to be completed!](https://www.adesso.nl/en/news/blog/meow-moments-minimize-the-wait-for-your-build-to-be-completed.jsp) ⭐️ (new)<br>
-[🇬🇧] [Your frontend is ☠️ ⚠️ Let's measure its impact with CO2.js](https://www.adesso.nl/en/news/blog/your-frontend-is-let-s-measure-its-impact-with-co2-js.jsp)<br>
-[🇬🇧] [Green Software Engineering: Best Practices](https://www.adesso.nl/en/news/blog/green-software-engineering-best-practices.jsp)<br>
-[🇳🇱] [Kafka Streams, Dutch Java Magazine](https://github.com/KoTurk/Kafka/blob/main/NLJUG/magazine/JavaMagazine.pdf)<br>
-[🇳🇱] [Micrometer, Dutch Java Magazine](https://github.com/KoTurk/Micrometer/blob/master/NLJUG/JavaMagazine.pdf)<br>
-[🇬🇧] [Latest trends and developments, Rabobank Engineers Week](https://rabobank.jobs/en/techblog/culture-leadership/engineers-week/)
-
-### Podcasts
-[Foojay](https://www.youtube.com/live/hodqxfIjvhY?si=uUpWlVhTJO5ehffT)<br>
-[SDN Cast](https://youtu.be/l0cYi7TJ2-8?si=OrvYRWTjHYBq-1Md)<br>
-
 ### Conference talks
 
 #### Maven's Hidden Secrets and Treasures to speed up your build (2024) --> [link](abstract_mvn.md)
-🇵🇱 [Devoxx Poland](https://devoxx.pl/schedule/)<br>
+🇵🇱 [Devoxx Poland](https://devoxx.pl/schedule/)&emsp;&emsp;&emsp;([video](https://www.youtube.com/watch?v=qPotZV5i1zw&t=43s) / [slides](https://github.com/KoTurk/DevoxxPoland/blob/master/presentation/DevoxxPoland_slides.pdf))<br>
 
 #### Your frontend is ☠️ ⚠️ Let's measure its impact with CO2.js (2024) --> [link](abstract_co2js.md)
 🇩🇪 [Javaland](https://my.doag.org/events/javaland/2024/agenda/#eventDay.1712700000)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;([slides](https://docs.google.com/presentation/d/1qF0Sz_aPbK7DmC4VpCFKfZaU3KgwENkJYXbDSS63usA/edit?usp=sharing))<br>
@@ -88,3 +61,29 @@ JVM energy consumption reports can be found here: [link](https://github.com/ionu
 🇪🇸 [Greach](https://www.youtube.com/watch?v=-_XgHORQuJ8)<br>
 🇳🇱 [UtrechtJUG](https://www.youtube.com/watch?v=et0nQHjE8x0)<br>
 
+
+### Badges
+<table>
+  <tr>
+    <td style="border: 0">
+          <a href="https://sessionize.com/ko-turk/#speaker"><img src="https://github.com/KoTurk/KoTurk/assets/43384384/4c019e58-1e4e-42a7-848d-59887e344413" width="100"></a></td>
+    <td><h1>top 3% of most active speakers for 2023</h1></td>
+  </tr>
+  <tr>
+    <td style="border: 0">
+          <a href="https://sessionize.com/ko-turk/#speaker"><img src="https://github.com/KoTurk/KoTurk/blob/main/community_member.jpeg" width="100"></a></td>
+    <td><h1>Rabobank Community Member of the Month April 2024</h1></td>
+  </tr>
+</table>
+
+### Blogs & Articles
+[🇬🇧] [Meow moments, minimize the wait for your build to be completed!](https://www.adesso.nl/en/news/blog/meow-moments-minimize-the-wait-for-your-build-to-be-completed.jsp) ⭐️ (new)<br>
+[🇬🇧] [Your frontend is ☠️ ⚠️ Let's measure its impact with CO2.js](https://www.adesso.nl/en/news/blog/your-frontend-is-let-s-measure-its-impact-with-co2-js.jsp)<br>
+[🇬🇧] [Green Software Engineering: Best Practices](https://www.adesso.nl/en/news/blog/green-software-engineering-best-practices.jsp)<br>
+[🇳🇱] [Kafka Streams, Dutch Java Magazine](https://github.com/KoTurk/Kafka/blob/main/NLJUG/magazine/JavaMagazine.pdf)<br>
+[🇳🇱] [Micrometer, Dutch Java Magazine](https://github.com/KoTurk/Micrometer/blob/master/NLJUG/JavaMagazine.pdf)<br>
+[🇬🇧] [Latest trends and developments, Rabobank Engineers Week](https://rabobank.jobs/en/techblog/culture-leadership/engineers-week/)
+
+### Podcasts
+[Foojay](https://www.youtube.com/live/hodqxfIjvhY?si=uUpWlVhTJO5ehffT)<br>
+[SDN Cast](https://youtu.be/l0cYi7TJ2-8?si=OrvYRWTjHYBq-1Md)<br>
