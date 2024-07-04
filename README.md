@@ -1,9 +1,9 @@
 <b>Ko Turk</b> is a Developer (Ambassador) with more than 16+ years of experience in developing Java / Kotlin applications.<br><br>
-      🧑‍💻 Working at [Blue4IT](https://www.blue4it.nl/) (part of [adessoNL](https://www.adesso.nl/en/index-5.jsp)), assignment at the Rabobank. DevOps Engineer & Community Lead<br><br>
-      👥 Part of the JFall Programm committee, Community reviewer DevoxxBE<br><br>
-      🎤 Conference speaker, sharing about what he learned (every year new topic)<br><br>
-      ✍🏻 Loves to blog and write articles for the Dutch Java Magazine.<br><br>
-      🤔 Believes in innovation, not in limitations<br><br>
+      🧑‍💻 Working at [Blue4IT](https://www.blue4it.nl/) (part of [adessoNL](https://www.adesso.nl/en/index-5.jsp)), assignment at the Rabobank. DevOps Engineer & Community Lead<br>
+      👥 Part of the JFall Programm committee, Community reviewer DevoxxBE<br>
+      🎤 Conference speaker, sharing about what he learned (every year new topic)<br>
+      ✍🏻 Loves to blog and write articles for the Dutch Java Magazine.<br>
+      🤔 Believes in innovation, not in limitations<br>
 
 ### Conference talks
 
@@ -23,7 +23,7 @@
 🇳🇱 [JFall](https://www.linkedin.com/posts/ko-turk-b271b929_java-jvm-maven-activity-7128687768913764352-BZLQ)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;([video](https://youtu.be/97xelmmdwGQ?si=-IgCq02oCmlzrNtq) / [slides](https://docs.google.com/presentation/d/1NXnwjayEtsLhsQ7azO-BbF0ahdPeZsquFHoLJnByq_U/edit?usp=sharing))<br>
 🇵🇹 [JNation](https://2023.jnation.pt/schedule/)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;([video](https://www.youtube.com/watch?v=47MlhUgJIKA) / [slides](https://docs.google.com/presentation/d/1TKiBgtkQDN__IvTcTrzi5KSHGuJhYAkK8u980gucSKA/edit?usp=sharing))<br>
 🇧🇪 [Voxxed Brussels](https://twitter.com/VoxxedBrussels/status/1660997178725216257)&emsp;&emsp;&emsp;([video](https://www.youtube.com/watch?v=zigwUR9fisY) / [slides](https://docs.google.com/presentation/d/1-gheOlzjlobHXlEFN-pQWJ291mgIFpVIWV9psh6yE9I/edit?usp=sharing))<br>
-🇩🇪 [JCON](https://jconeurope2023.sched.com/event/1K7g3/create-an-eco-friendly-world-with-green-software-engineering)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;([video](https://youtu.be/LlgUjnSU1RQ?si=fjD-jkhHGsl62d2y) / [slides](https://docs.google.com/presentation/d/1A0gfS9FE2sAmFtywx4hn7FcGwMROyQXUl2CDhv1wuK8/edit?usp=sharing))<br><br>
+🇩🇪 [JCON](https://jconeurope2023.sched.com/event/1K7g3/create-an-eco-friendly-world-with-green-software-engineering)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;([video](https://youtu.be/LlgUjnSU1RQ?si=fjD-jkhHGsl62d2y) / [slides](https://docs.google.com/presentation/d/1A0gfS9FE2sAmFtywx4hn7FcGwMROyQXUl2CDhv1wuK8/edit?usp=sharing))
 
 JVM energy consumption reports can be found here: [link](https://github.com/ionutbalosin/jvm-energy-consumption) 
 
