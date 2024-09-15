@@ -20,8 +20,9 @@
 🇵🇱 [Devoxx Poland](https://devoxx.pl/schedule/)&emsp;&emsp;&emsp;([video](https://www.youtube.com/watch?v=qPotZV5i1zw&t=43s) / [slides](https://github.com/KoTurk/DevoxxPoland/blob/master/presentation/DevoxxPoland_slides.pdf))<br>
 
 #### Your frontend is ☠️ ⚠️ Let's measure its impact with CO2.js (2024) --> [link](abstract_co2js.md)
-🇧🇪 [Devoxx Belgium](https://devoxx.be/talk/?id=19325)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;([slides]())<br>
-🇳🇱 [FrontMania](https://frontmania.com/timetable/)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;([slides]())<br>
+🇳🇱 [JFall]()&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;<br>
+🇧🇪 [Devoxx Belgium](https://devoxx.be/talk/?id=19325)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;<br>
+🇳🇱 [FrontMania](https://frontmania.com/timetable/)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;<br>
 🇳🇱 [Green Software Foundation NL Meetup](https://www.meetup.com/nl-NL/green-software-the-netherlands)&emsp;&emsp;([slides](https://docs.google.com/presentation/d/12l9SvcxlZquW2a8bC_R8bnp_bURTjTlRJOWnWTWEeGE/edit?usp=sharing))<br>
 🇳🇱 [FortWierickerschans](https://www.fortwierickerschans.nl/)&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;([slides](https://github.com/KoTurk/YourFrontendIsKilling/blob/master/wierickerschans/slides/slides.pdf) / [code](https://github.com/KoTurk/YourFrontendIsKilling/tree/master/wierickerschans))<br>
 🇩🇪 [Javaland](https://my.doag.org/events/javaland/2024/agenda/#eventDay.1712700000)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;([slides](https://docs.google.com/presentation/d/1qF0Sz_aPbK7DmC4VpCFKfZaU3KgwENkJYXbDSS63usA/edit?usp=sharing))<br>
