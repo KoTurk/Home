@@ -1,10 +1,18 @@
-<b>Ko Turk</b> is a Developer (Ambassador) with more than 16+ years of experience in developing Java / Kotlin applications.<br><br>
-      🧑‍💻 Working at [Blue4IT](https://www.blue4it.nl/) (part of [adessoNL](https://www.adesso.nl/en/index-5.jsp)), assignment at the Rabobank. DevOps Engineer & Community Lead<br>
-      🙌🏼 JUGLeader at [CodeLabJUG](https://codelabjug.nl/) <br>
-      👥 Part of the JFall Programm committee, Community reviewer DevoxxBE<br>
-      🎤 Conference speaker, sharing about what he learned (every year new topic)<br>
-      ✍🏻 Loves to blog and write articles for the Dutch Java Magazine.<br>
-      🤔 Believes in innovation, not in limitations<br>
+<b>Ko Turk</b> is a Software Architect, Java Engineer, and Community Builder with more than 15+ years of experience in development, architecture, speaking, and building communities.
+
+🦊 Voxxed Days Amsterdam conference organiser<br>
+
+👥 JUGLeader @CodeLabJUG<br>
+
+🫶🏻 JFall Programme Committee Member, DevoxxBE Community reviewer<br>
+
+🧑‍💻 Working @CodeLab, assignment @Rabobank.<br>
+
+🎤 Conference speaker, speaks about everything around Java (ok and Typescript 😄).<br>
+
+✍🏻 Loves to blog, and writing articles for the Dutch Java Magazine.<br>
+
+➡️ Website: http://koturk.nl/<br>
 
 ### Conference talks
 
