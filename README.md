@@ -4,7 +4,7 @@
 
 👥 JUGLeader @CodeLabJUG<br>
 
-🫶🏻 JFall Programme Committee Member, DevoxxBE Community reviewer<br>
+🫶🏻 JFall Program Committee Member, DevoxxBE Community reviewer<br>
 
 🧑‍💻 Working @CodeLab, assignment @Rabobank.<br>
 
