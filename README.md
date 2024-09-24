@@ -1,6 +1,6 @@
 <b>Ko Turk</b> is a Software Architect, Java Engineer, and Community Builder with more than 15+ years of experience in development, architecture, speaking, and building communities.
 
-🦊 Voxxed Days Amsterdam conference organiser --> <a href="https://amsterdam.voxxedays.com" target="_blank">https://amsterdam.voxxedays.com</a><br>
+🦊 Voxxed Days Amsterdam conference organiser --> <a href="https://amsterdam.voxxeddays.com" target="_blank">amsterdam.voxxedays.com</a><br>
 
 👥 JUGLeader @CodeLabJUG<br>
 
