@@ -21,7 +21,7 @@
 
 #### Your frontend is ☠️ ⚠️ Let's measure its impact with CO2.js (2024) --> [link](abstract_co2js.md)
 🇳🇱 [JFall]()&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;<br>
-🇧🇪 [Devoxx Belgium](https://devoxx.be/talk/?id=19325)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;<br>
+🇧🇪 [Devoxx Belgium](https://devoxx.be/talk/?id=19325)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; ([slides](https://docs.google.com/presentation/d/12l9SvcxlZquW2a8bC_R8bnp_bURTjTlRJOWnWTWEeGE/edit?usp=sharing) / [video](https://youtu.be/lSi0new5mDM?si=boKIK6W2TKhqsbn2))<br>
 🇳🇱 [FrontMania](https://frontmania.com/timetable/)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;<br>
 🇳🇱 [Green Software Foundation NL Meetup](https://www.meetup.com/nl-NL/green-software-the-netherlands)&emsp;&emsp;([slides](https://docs.google.com/presentation/d/12l9SvcxlZquW2a8bC_R8bnp_bURTjTlRJOWnWTWEeGE/edit?usp=sharing))<br>
 🇳🇱 [FortWierickerschans](https://www.fortwierickerschans.nl/)&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;([slides](https://github.com/KoTurk/YourFrontendIsKilling/blob/master/wierickerschans/slides/slides.pdf) / [code](https://github.com/KoTurk/YourFrontendIsKilling/tree/master/wierickerschans))<br>
