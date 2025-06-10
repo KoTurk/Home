@@ -4,23 +4,29 @@
 
 👥 JUGLeader @CodeLabJUG<br>
 
+🌱 [Green Software Champion](https://champions.greensoftware.foundation/champions/ko-turk/)
+
 🫶🏻 JFall Program Committee Member, DevoxxBE Community reviewer<br>
 
 🧑‍💻 Working @CodeLab, assignment @Rabobank.<br>
 
 🎤 Conference speaker, speaks about everything around Java (ok and Typescript 😄).<br>
 
-✍🏻 Loves to blog, and writing articles for the Dutch Java Magazine.<br>
-
 ➡️ Website: http://koturk.nl/<br>
 
 ### Conference talks
 
-#### (new) Maven's Hidden Secrets and Treasures to speed up your build (2024) --> [link](abstract_mvn.md)
+#### (new) Job Processing in Java with JobRunr (2025) --> [link](abstract_jobrunr.md)
+🇩🇪 [JCON](https://schedule.jcon.one/session/767669)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;([video]() / [slides](https://github.com/KoTurk/Jobrunr/blob/main/slides.pdf))<br>
+
+#### (new) From Space to Code: Using NASA's Open Data APIs with Kepler (2025) --> [link](abstract_kepler.md)
+🇵🇹 [JNation](https://jnation.pt/schedule/)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;([video](https://youtu.be/lAxkclvcESg?si=PjAJcPabG7QlZrR-) / [slides](https://github.com/KoTurk/Kepler/blob/main/slides.pdf))<br>
+
+#### Maven's Hidden Secrets and Treasures to speed up your build (2024) --> [link](abstract_mvn.md)
 🇵🇱 [Devoxx Poland](https://devoxx.pl/schedule/)&emsp;&emsp;&emsp;([video](https://www.youtube.com/watch?v=qPotZV5i1zw&t=43s) / [slides](https://github.com/KoTurk/DevoxxPoland/blob/master/presentation/DevoxxPoland_slides.pdf))<br>
 🇳🇱 [Engineers Week]()&emsp;&nbsp;&emsp;([slides](https://github.com/KoTurk/DevoxxPoland/blob/master/presentation/DevoxxPoland_slides.pdf))<br>
 
-#### Your frontend is ☠️ ⚠️ Let's measure its impact with CO2.js (2024) --> [link](abstract_co2js.md)
+#### Your frontend is ☠️ ⚠️ Let's measure its impact with CO2.js (2024 / 2025) --> [link](abstract_co2js.md)
 🇨🇭 [CERN](https://mobile.devoxx.com/events/vdcern25/talks/1404/details)&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; ([slides](https://docs.google.com/presentation/d/12l9SvcxlZquW2a8bC_R8bnp_bURTjTlRJOWnWTWEeGE/edit?usp=sharing(https://docs.google.com/presentation/d/12l9SvcxlZquW2a8bC_R8bnp_bURTjTlRJOWnWTWEeGE/edit?usp=sharing)))<br>
 🇳🇱 [JFall]()&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;<br>
 🇧🇪 [Devoxx Belgium](https://devoxx.be/talk/?id=19325)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; ([slides](https://docs.google.com/presentation/d/12l9SvcxlZquW2a8bC_R8bnp_bURTjTlRJOWnWTWEeGE/edit?usp=sharing) / [video](https://youtu.be/lSi0new5mDM?si=boKIK6W2TKhqsbn2))<br>
