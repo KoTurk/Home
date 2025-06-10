@@ -17,10 +17,10 @@
 ### Conference talks
 
 #### (new) Job Processing in Java with JobRunr (2025) --> [link](abstract_jobrunr.md)
-🇩🇪 [JCON](https://schedule.jcon.one/session/767669)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;([video]() / [slides](https://github.com/KoTurk/Jobrunr/blob/main/slides.pdf))<br>
+🇩🇪 [JCON](https://schedule.jcon.one/session/767669)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;([video]() / [slides](https://github.com/KoTurk/Jobrunr/blob/main/slides.pdf) / [code](https://github.com/KoTurk/Jobrunr/))<br>
 
 #### (new) From Space to Code: Using NASA's Open Data APIs with Kepler (2025) --> [link](abstract_kepler.md)
-🇵🇹 [JNation](https://jnation.pt/schedule/)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;([video](https://youtu.be/lAxkclvcESg?si=PjAJcPabG7QlZrR-) / [slides](https://github.com/KoTurk/Kepler/blob/main/slides.pdf))<br>
+🇵🇹 [JNation](https://jnation.pt/schedule/)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;([video](https://youtu.be/lAxkclvcESg?si=PjAJcPabG7QlZrR-) / [slides](https://github.com/KoTurk/Kepler/blob/main/slides.pdf) / [code](https://github.com/KoTurk/Kepler/))<br>
 
 #### Maven's Hidden Secrets and Treasures to speed up your build (2024) --> [link](abstract_mvn.md)
 🇵🇱 [Devoxx Poland](https://devoxx.pl/schedule/)&emsp;&emsp;&emsp;([video](https://www.youtube.com/watch?v=qPotZV5i1zw&t=43s) / [slides](https://github.com/KoTurk/DevoxxPoland/blob/master/presentation/DevoxxPoland_slides.pdf))<br>
