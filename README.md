@@ -17,7 +17,7 @@
 ### Conference talks
 
 #### (new) Job Processing in Java with JobRunr (2025) --> [link](abstract_jobrunr.md)
-🇩🇪 [JCON](https://schedule.jcon.one/session/767669)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;([video]() / [slides](https://github.com/KoTurk/Jobrunr/blob/main/slides.pdf) / [code](https://github.com/KoTurk/Jobrunr/))<br>
+🇩🇪 [JCON](https://schedule.jcon.one/session/767669)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;([video](https://youtu.be/aOBkWttmcTE?si=YcKrABmlw62D-3Kq) / [slides](https://github.com/KoTurk/Jobrunr/blob/main/slides.pdf) / [code](https://github.com/KoTurk/Jobrunr/))<br>
 
 #### (new) From Space to Code: Using NASA's Open Data APIs with Kepler (2025) --> [link](abstract_kepler.md)
 🇵🇹 [JNation](https://jnation.pt/schedule/)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;([video](https://youtu.be/lAxkclvcESg?si=PjAJcPabG7QlZrR-) / [slides](https://github.com/KoTurk/Kepler/blob/main/slides.pdf) / [code](https://github.com/KoTurk/Kepler/))<br>
