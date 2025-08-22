@@ -21,6 +21,9 @@
 
 #### (new) From Space to Code: Using NASA's Open Data APIs with Kepler (2025) --> [link](abstract_kepler.md)
 🇵🇹 [JNation](https://jnation.pt/schedule/)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;([video](https://youtu.be/lAxkclvcESg?si=PjAJcPabG7QlZrR-) / [slides](https://github.com/KoTurk/Kepler/blob/main/slides.pdf) / [code](https://github.com/KoTurk/Kepler/))<br>
+🇳🇴 [JavaZone](https://2025.javazone.no/en/program/1f23ddb8-7ba1-4721-a96b-1f93625f981f?__EXPO_ROUTER_key=undefined-RyobWOb3L2BkvnzRB7sKI)<br>
+🇬🇷 [Voxxed Days Crete](https://crete.voxxeddays.com/talk/?id=3060)<br>
+🇧🇪 [Devoxx Belgium](https://m.devoxx.com/events/dvbe25/talks/3253/from-space-to-code-using-nasas-open-data-apis-with-kepler)<br>
 
 #### Maven's Hidden Secrets and Treasures to speed up your build (2024) --> [link](abstract_mvn.md)
 🇵🇱 [Devoxx Poland](https://devoxx.pl/schedule/)&emsp;&emsp;&emsp;([video](https://www.youtube.com/watch?v=qPotZV5i1zw&t=43s) / [slides](https://github.com/KoTurk/DevoxxPoland/blob/master/presentation/DevoxxPoland_slides.pdf))<br>
