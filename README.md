@@ -16,12 +16,12 @@
 
 ### Conference talks
 
-#### (new) Job Processing in Java with JobRunr --> [abstract](abstract_jobrunr.md)
+#### Job Processing in Java with JobRunr --> [abstract](abstract_jobrunr.md)
 🇩🇪 [JCON](https://schedule.jcon.one/session/767669)&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;([video](https://youtu.be/aOBkWttmcTE?si=YcKrABmlw62D-3Kq) / [slides](https://github.com/KoTurk/Jobrunr/blob/main/slides.pdf) / [code](https://github.com/KoTurk/Jobrunr/))<br>
 🇳🇱 [Amsterdam Java User Group](https://www.meetup.com/amsterdam-java-user-group/events/308630499/)<br>
 🇳🇱 [JUG Noord](https://www.meetup.com/nl-nl/jug-noord/events/312251104)<br>
 
-#### (new) From Space to Code: Using NASA's Open Data APIs with Kepler --> [abstract](abstract_kepler.md)
+#### From Space to Code: Using NASA's Open Data APIs with Kepler --> [abstract](abstract_kepler.md)
 🇵🇹 [JNation](https://jnation.pt/schedule/)&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;([video](https://youtu.be/lAxkclvcESg?si=PjAJcPabG7QlZrR-) / [slides](https://github.com/KoTurk/Kepler/blob/main/slides.pdf) / [code](https://github.com/KoTurk/Kepler/))<br>
 🇳🇴 [JavaZone](https://2025.javazone.no/en/program/1f23ddb8-7ba1-4721-a96b-1f93625f981f?__EXPO_ROUTER_key=undefined-RyobWOb3L2BkvnzRB7sKI)<br>
 🇬🇷 [Voxxed Days Crete](https://crete.voxxeddays.com/talk/?id=3060)<br>
