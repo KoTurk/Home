@@ -6,7 +6,7 @@
 
 🌱 [Green Software Champion](https://champions.greensoftware.foundation/champions/ko-turk/)
 
-🫶🏻 JFall Program Committee Member, DevoxxBE Community reviewer<br>
+🫶🏻 DevoxxBE Community reviewer<br>
 
 🧑‍💻 Working @CodeLab, assignment @Rabobank.<br>
 
@@ -16,21 +16,24 @@
 
 ### Conference talks
 
-#### (new) Job Processing in Java with JobRunr (2025) --> [link](abstract_jobrunr.md)
+#### (new) Job Processing in Java with JobRunr --> [abstract](abstract_jobrunr.md)
 🇩🇪 [JCON](https://schedule.jcon.one/session/767669)&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;([video](https://youtu.be/aOBkWttmcTE?si=YcKrABmlw62D-3Kq) / [slides](https://github.com/KoTurk/Jobrunr/blob/main/slides.pdf) / [code](https://github.com/KoTurk/Jobrunr/))<br>
-🇳🇱 [Amsterdam Java User Group](https://www.meetup.com/amsterdam-java-user-group/events/308630499/)
+🇳🇱 [Amsterdam Java User Group](https://www.meetup.com/amsterdam-java-user-group/events/308630499/)<br>
+🇳🇱 [JUG Noord](https://www.meetup.com/nl-nl/jug-noord/events/312251104)<br>
 
-#### (new) From Space to Code: Using NASA's Open Data APIs with Kepler (2025) --> [link](abstract_kepler.md)
+#### (new) From Space to Code: Using NASA's Open Data APIs with Kepler --> [abstract](abstract_kepler.md)
 🇵🇹 [JNation](https://jnation.pt/schedule/)&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;([video](https://youtu.be/lAxkclvcESg?si=PjAJcPabG7QlZrR-) / [slides](https://github.com/KoTurk/Kepler/blob/main/slides.pdf) / [code](https://github.com/KoTurk/Kepler/))<br>
 🇳🇴 [JavaZone](https://2025.javazone.no/en/program/1f23ddb8-7ba1-4721-a96b-1f93625f981f?__EXPO_ROUTER_key=undefined-RyobWOb3L2BkvnzRB7sKI)<br>
 🇬🇷 [Voxxed Days Crete](https://crete.voxxeddays.com/talk/?id=3060)<br>
 🇧🇪 [Devoxx Belgium](https://m.devoxx.com/events/dvbe25/talks/3253/from-space-to-code-using-nasas-open-data-apis-with-kepler)<br>
 
-#### Maven's Hidden Secrets and Treasures to speed up your build (2024) --> [link](abstract_mvn.md)
+#### Maven's Hidden Secrets and Treasures to speed up your build --> [abstract](abstract_mvn.md)
 🇵🇱 [Devoxx Poland](https://devoxx.pl/schedule/)&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;([video](https://www.youtube.com/watch?v=qPotZV5i1zw&t=43s) / [slides](https://github.com/KoTurk/DevoxxPoland/blob/master/presentation/DevoxxPoland_slides.pdf))<br>
 🇳🇱 [Engineers Week]()&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;([slides](https://github.com/KoTurk/DevoxxPoland/blob/master/presentation/DevoxxPoland_slides.pdf))<br>
+🇺🇸 [DevNexus](https://devnexus.com/events/maven-s-hidden-secrets-to-speed-up-your-build)<br>
+🇳🇱 [ApeldoornJUG](https://www.meetup.com/nl-nl/apeldoornjug/events/313324492)<br>
 
-#### Your frontend is ☠️ ⚠️ Let's measure its impact with CO2.js (2024 / 2025) --> [link](abstract_co2js.md)
+#### Your frontend is ☠️ ⚠️ Let's measure its impact with CO2.js --> [abstract](abstract_co2js.md)
 🇨🇭 [CERN](https://mobile.devoxx.com/events/vdcern25/talks/1404/details)&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; ([slides](https://docs.google.com/presentation/d/12l9SvcxlZquW2a8bC_R8bnp_bURTjTlRJOWnWTWEeGE/edit?usp=sharing(https://docs.google.com/presentation/d/12l9SvcxlZquW2a8bC_R8bnp_bURTjTlRJOWnWTWEeGE/edit?usp=sharing)))<br>
 🇳🇱 [JFall]()&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;<br>
 🇧🇪 [Devoxx Belgium](https://devoxx.be/talk/?id=19325)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; ([slides](https://docs.google.com/presentation/d/12l9SvcxlZquW2a8bC_R8bnp_bURTjTlRJOWnWTWEeGE/edit?usp=sharing) / [video](https://youtu.be/lSi0new5mDM?si=boKIK6W2TKhqsbn2))<br>
@@ -40,7 +43,7 @@
 🇩🇪 [Javaland](https://my.doag.org/events/javaland/2024/agenda/#eventDay.1712700000)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;([slides](https://docs.google.com/presentation/d/1qF0Sz_aPbK7DmC4VpCFKfZaU3KgwENkJYXbDSS63usA/edit?usp=sharing))<br>
 🇳🇱 [TeqNation](https://conference.teqnation.com/timetable)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;([slides](https://docs.google.com/presentation/d/1u51D0s5iN6YE8G9VwbPk05rkzcy1xJtCbXApWa6bFPw/edit?usp=sharing) / [code](https://github.com/KoTurk/KoTurk/tree/main/GreenCoding))<br>
 
-#### The Future is 💚: A Journey through the Energy Efficient Design Principles of Software Engineering (2023/2024) --> [link](abstract_JVMEnergy.md)
+#### The Future is 💚: A Journey through the Energy Efficient Design Principles of Software Engineering --> [abstract](abstract_JVMEnergy.md)
 🇳🇱 [UtrechtJUG](https://my.doag.org/events/javaland/2024/agenda/#eventDay.1712613600)&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;([slides](https://docs.google.com/presentation/d/1qmcVnz_v3IgYFr3KsiXZql_f0v4Zurvunxeze9aPiEI/edit?usp=sharing))<br>
 🇩🇪 [Javaland](https://my.doag.org/events/javaland/2024/agenda/#eventDay.1712700000)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;([slides](https://docs.google.com/presentation/d/1FhMQdTfoVYyq-JNkW_G0X9ZAuVGyUKtH2FOKr7KFplk/edit?usp=sharing))<br>
 🇳🇱 [AmsterdamJUG](https://www.meetup.com/amsterdam-java-user-group/events/299589593/)&emsp;&emsp;&emsp;([slides](https://docs.google.com/presentation/d/1q3Arqh9hE6dGP4QLiOrqHx2H8fOo4sCrlIUTfQFgt0c/edit?usp=sharing))<br>
@@ -52,7 +55,7 @@
 
 JVM energy consumption reports can be found here: [link](https://github.com/ionutbalosin/jvm-energy-consumption) 
 
-#### The Art of Streaming, releasing your creativity with Apache Pulsar and Apache Kafka  (2023)
+#### The Art of Streaming, releasing your creativity with Apache Pulsar and Apache Kafka
 🇺🇸 [DevNexus](https://www.youtube.com/watch?v=m2GhQ9wlSns)&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;([slides](https://docs.google.com/presentation/d/1dQ4yN-MveaEM4kOGP6VWHWqiAyuZC9Y92OsotOqnrfo/edit?usp=sharing) / [video](https://youtu.be/m2GhQ9wlSns?si=c1DhUvyI7-HAsXXy))<br>
 🇵🇹 [JNation](https://www.youtube.com/watch?v=4xjsYvFZHlM)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;([slides](https://docs.google.com/presentation/d/1_rVN9sQgES3jfiv3MiiKR01DeVLSZjPBg_pWgHM0jW0/edit?usp=sharing) / [video](https://youtu.be/4xjsYvFZHlM?si=P46A5wGd-tFJQEuB))<br>
 🇳🇱 [TeqNation](https://www.youtube.com/watch?v=iC5gILgk98s);&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;([slides](https://docs.google.com/presentation/d/1KDZem-WGwphKjKJ99YceEN-QDEeeE7uvD2hTcfsOyzE/edit?usp=sharing) / [video](https://youtu.be/iC5gILgk98s?si=MsO0ac_I6DKLfoKI))<br>
@@ -60,7 +63,7 @@ JVM energy consumption reports can be found here: [link](https://github.com/ionu
 🇵🇱 [Devoxx Poland](https://devoxx.pl/talk-details/?id=2213);&emsp;&emsp;&emsp;&nbsp;&nbsp;([slides](https://docs.google.com/presentation/d/1MCA-Q88lMup9KGIa0B7uNWbdpQpm8c1Oc-LLEpNjPwM/edit?usp=sharing))<br>
 🇳🇴 [JavaZone](https://2023.javazone.no/program/4f17861c-bb56-4545-a690-fe4420d4ffd1);&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;([slides](https://docs.google.com/presentation/d/1-WJv08KNlxNO8MgX2m0V-pJpr30ynSAiaQVwrKinlao/edit?usp=sharing) / [video](https://2023.javazone.no/program/4f17861c-bb56-4545-a690-fe4420d4ffd1))<br>
 
-#### Kafka Streams, nightmare or sweet dream? (2021/2022)
+#### Kafka Streams, nightmare or sweet dream?
 ⭐️ [JetBrains](https://www.youtube.com/watch?v=HlNUUtU_AsM)<br>
 🇵🇹 [JNation](https://youtu.be/0NVA_Cp5jeI)<br>
 🇷🇴 [Voxxed Bucharest](https://youtu.be/uWkFeUKNXbI)<br>
@@ -70,18 +73,18 @@ JVM energy consumption reports can be found here: [link](https://github.com/ionu
 🇹🇷 [Java Day Istanbul](https://www.javaday.istanbul/speaker-ko-turk)<br>
 🇩🇪 [JCON](https://www.youtube.com/watch?v=CaDnqhBSiD4)
 
-#### How we build and migrated our Spring Boot applications to Kotlin (2022)
+#### How we build and migrated our Spring Boot applications to Kotlin
 🇷🇴 [Voxxed Cluj](https://www.youtube.com/watch?v=wdj-AzLXpz8&ab_channel=Devoxx)<br>
 🇳🇱 [Kotlin Dev Day](https://www.youtube.com/watch?v=J1X9CCgswI0)<br>
 🇩🇪 [JCON](https://www.youtube.com/watch?v=QNdPuN9ZgQQ)<br>
 
-#### Controlling your race with Micrometer and Spring Boot (2020 / 2021)
+#### Controlling your race with Micrometer and Spring Boot
 🇸🇪 [JFokus](https://www.youtube.com/watch?v=wkROG7Cwf-M)<br>
 🇺🇸 [DenverJUG](https://www.youtube.com/watch?v=kqNMOJRfGIg)<br>
 🇩🇪 [JCON](https://www.youtube.com/watch?v=bXiU1Az9x9g)<br>
 🇳🇴 [JavaZone](https://vimeo.com/669150573)<br>
 
-#### The battle of the IDEs (2019) - first talk
+#### The battle of the IDEs
 🇩🇪 [JCON](https://www.youtube.com/watch?v=ImsRsX-xgto)<br>
 🇳🇴 [JavaZone](https://vimeo.com/360821586)<br>
 🇪🇸 [Greach](https://www.youtube.com/watch?v=-_XgHORQuJ8)<br>
@@ -93,12 +96,12 @@ JVM energy consumption reports can be found here: [link](https://github.com/ionu
   <tr>
     <td style="border: 0">
           <a href="https://sessionize.com/ko-turk/#speaker"><img src="https://github.com/KoTurk/KoTurk/assets/43384384/4c019e58-1e4e-42a7-848d-59887e344413" width="100"></a></td>
-    <td><h1>top 3% of most active speakers for 2023</h1></td>
+    <td><h1>top 3% of most active speakers</h1></td>
   </tr>
   <tr>
     <td style="border: 0">
           <a href="https://sessionize.com/ko-turk/#speaker"><img src="https://github.com/KoTurk/KoTurk/blob/main/community_member.jpeg" width="100"></a></td>
-    <td><h1>Rabobank Community Member of the Month April 2024</h1></td>
+    <td><h1>Rabobank Community Member of the Month</h1></td>
   </tr>
 </table>
 
