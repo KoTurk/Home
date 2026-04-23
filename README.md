@@ -1,25 +1,23 @@
 <b>Ko Turk</b> is a Software Architect, Java Engineer, and Community Builder with more than 15+ years of experience in development, architecture, speaking, and building communities.
 
 🦊 Voxxed Days Amsterdam conference organiser --> <a href="https://amsterdam.voxxeddays.com" target="_blank">amsterdam.voxxedays.com</a><br>
-
 👥 JUGLeader @CodeLabJUG<br>
-
 🌱 [Green Software Champion](https://champions.greensoftware.foundation/champions/ko-turk/)
-
 🫶🏻 DevoxxBE Community reviewer<br>
-
 🧑‍💻 Working @CodeLab, assignment @Rabobank.<br>
-
 🎤 Conference speaker, speaks about everything around Java (ok and Typescript 😄).<br>
-
-➡️ Website: http://koturk.nl/<br>
+➡️ Website: http://koturk.nl/<br><br>
 
 ### Conference talks
+
+#### Inside Spring: The Architecture Behind the Framework --> [abstract](abstract_spring.md)
+🇩🇪 [JCON](https://schedule.jcon.one/2026/?day=2026-04-22&selectedSession=1053248)&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;([slides](https://github.com/KoTurk/InsideSpring/blob/main/slides.pdf) /<br>
 
 #### Job Processing in Java with JobRunr --> [abstract](abstract_jobrunr.md)
 🇩🇪 [JCON](https://schedule.jcon.one/session/767669)&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;([video](https://youtu.be/aOBkWttmcTE?si=YcKrABmlw62D-3Kq) / [slides](https://github.com/KoTurk/Jobrunr/blob/main/slides.pdf) / [code](https://github.com/KoTurk/Jobrunr/))<br>
 🇳🇱 [Amsterdam Java User Group](https://www.meetup.com/amsterdam-java-user-group/events/308630499/)<br>
 🇳🇱 [JUG Noord](https://www.meetup.com/nl-nl/jug-noord/events/312251104)<br>
+🇳🇱 [RotterdamJUG](https://www.meetup.com/nl-nl/rotterdamjug/events/313574231)<br>
 
 #### From Space to Code: Using NASA's Open Data APIs with Kepler --> [abstract](abstract_kepler.md)
 🇵🇹 [JNation](https://jnation.pt/schedule/)&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;([video](https://youtu.be/lAxkclvcESg?si=PjAJcPabG7QlZrR-) / [slides](https://github.com/KoTurk/Kepler/blob/main/slides.pdf) / [code](https://github.com/KoTurk/Kepler/))<br>
