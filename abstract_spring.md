@@ -11,3 +11,6 @@ As “Doctor Spring,” we’ll diagnose what happens under the hood when a Spri
 With visuals, analogies, and practical examples, this session makes Spring’s internal architecture easier to understand and a lot more fun.
 
 By the end, Spring will feel less like magic, and more like a living system you can reason about.
+
+</br>
+<img src="https://github.com/KoTurk/Home/blob/main/images/55233629333_5ee948fa7c_c.jpg">
