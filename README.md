@@ -10,8 +10,10 @@
 
 ### Conference talks
 
-#### Inside Spring: The Architecture Behind the Framework --> [abstract](abstract_spring.md)
-🇩🇪 [JCON](https://schedule.jcon.one/2026/?day=2026-04-22&selectedSession=1053248)&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;([slides](https://github.com/KoTurk/InsideSpring/blob/main/slides.pdf) /<br>
+#### Inside Spring: The Architecture behind the framework (fun talk) --> [abstract](abstract_spring.md)
+🇩🇪 [JCON](https://schedule.jcon.one/2026/?day=2026-04-22&selectedSession=1053248)&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;([slides](https://github.com/KoTurk/InsideSpring/blob/main/slides.pdf)) /<br>
+
+<img src="https://github.com/KoTurk/Home/blob/main/images/55233725894_972a1fc384_c.jpg">
 
 #### Job Processing in Java with JobRunr --> [abstract](abstract_jobrunr.md)
 🇩🇪 [JCON](https://schedule.jcon.one/session/767669)&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;([video](https://youtu.be/aOBkWttmcTE?si=YcKrABmlw62D-3Kq) / [slides](https://github.com/KoTurk/Jobrunr/blob/main/slides.pdf) / [code](https://github.com/KoTurk/Jobrunr/))<br>
