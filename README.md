@@ -10,7 +10,7 @@
 
 ### Conference talks
 
-#### Inside Spring: The Architecture behind the framework (fun talk) --> [abstract](abstract_spring.md)
+#### Doctor Spring: The nervous system behind the Spring Framework --> [abstract](abstract_spring.md)
 🇩🇪 [JCON](https://schedule.jcon.one/2026/?day=2026-04-22&selectedSession=1053248)&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;([slides](https://github.com/KoTurk/InsideSpring/blob/main/slides.pdf) / [photos](https://www.flickr.com/photos/jcon-conference/55233888600/in/album-72177720333329261/))<br>
 
 <img src="https://github.com/KoTurk/Home/blob/main/images/55233725894_972a1fc384_c.jpg">
