@@ -1,7 +1,13 @@
-<h1>Inside Spring: The Architecture Behind the Framework</h1>
+<h1>Doctor Spring: The nervous system behind the Spring Framework</h1>
 
-The Spring Framework is one of the most widely adopted frameworks in the Java ecosystem, yet its internal architecture often remains a black box for many developers. In this talk, we’ll open that box and explore how Spring is structured under the hood.
+Spring often feels like magic: annotations, beans, events, proxies, and auto-configuration all working together behind the scenes. In this talk, we open up the patient and examine the nervous system of the Spring Framework.
 
-We’ll start by examining the core container, the heart of Spring, which includes the core, beans, context, and SpEL modules. The foundation for dependency injection and application configuration. From there, we’ll follow the flow through AOP, dive into Data Access with modules like jdbc, orm, and tx, and explore the Web layer, including web, webmvc, and websocket.
+Using the human nervous system as a metaphor, we explore how signals travel through Spring: from configuration and bean creation to dependency injection, application context, events, proxies, and web requests.
 
-Along the way, we’ll highlight how these modules interact, how Spring maintains modularity and cohesion, and how design patterns like Factory, Proxy, and Template Method could be used. With diagrams and practical examples, this session will give you a clear view of Spring’s architecture and a deeper appreciation for the framework you use every day.
+Just as the brain, spinal cord, nerves, and neurons coordinate the body, Spring’s core container, bean lifecycle, context, and modules coordinate a running application.
+
+As “Doctor Spring,” we’ll diagnose what happens under the hood when a Spring application starts, how components communicate, and why the framework responds so quickly and flexibly.
+
+With visuals, analogies, and practical examples, this session makes Spring’s internal architecture easier to understand and a lot more fun.
+
+By the end, Spring will feel less like magic, and more like a living system you can reason about.
