@@ -13,4 +13,5 @@ With visuals, analogies, and practical examples, this session makes Spring’s i
 By the end, Spring will feel less like magic, and more like a living system you can reason about.
 
 </br>
-<img src="https://github.com/KoTurk/Home/blob/main/images/55233629333_5ee948fa7c_c.jpg">
+<img src="https://github.com/KoTurk/Home/blob/main/images/55233629333_5ee948fa7c_c.jpg" /></br>
+* Photos made by Dimitris Doutsiopoulos :https://www.linkedin.com/in/dimitris-doutsiopoulos-photographer
