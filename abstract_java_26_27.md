@@ -26,4 +26,8 @@ How does an idea become a JEP? </br>
 What roles do OpenJDK and Java SE play? </br>
 And how does a proposed feature eventually make it into a JDK release?</br>
 
-The goal is to help you decide which changes are relevant to your projects and how to start using them.</br>
+The goal is to help you decide which changes are relevant to your projects and how to start using them.</br></br></br>
+
+
+<img src="https://github.com/KoTurk/Home/blob/main/images/55187329450_bf4e8c686f_c.jpg" /></br>
+* Photos made by Dimitris Doutsiopoulos :https://www.linkedin.com/in/dimitris-doutsiopoulos-photographer
